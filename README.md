@@ -1,2 +1,2 @@
-# sample-java-rest-docker-git
-Sample project for cloud rampup
+# java-api-docker
+This is an example project how to dockerize the java API project
